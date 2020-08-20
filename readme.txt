@@ -2,4 +2,4 @@ start to learn git
 git is a free software
 if you want to use
 then use
-then we don't change
+Creating a new branch is quick & simple.
