@@ -5,4 +5,6 @@ for more test
 Creating a new branch is quick and simple.
 branch management strategy
 for more test
+<<<<<<< Updated upstream
 fix bug
+makesomechange
