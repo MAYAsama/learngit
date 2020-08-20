@@ -1,6 +1,6 @@
 start to learn git
 git is a free software
 if you want to use
-then use
+for more test
 Creating a new branch is quick and simple.
 branch management strategy
